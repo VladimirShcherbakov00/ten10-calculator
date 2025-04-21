@@ -43,7 +43,6 @@ Tests the application’s behavior and correctness on different viewports (mobil
 1. Clone the repository
 
    git clone https://github.com/VladimirShcherbakov00/ten10-calculator.git
-   cd project-root
 
 2. Install dependencies
 
