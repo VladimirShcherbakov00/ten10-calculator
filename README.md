@@ -58,9 +58,4 @@ Tests the application’s behavior and correctness on different viewports (mobil
 
      LOGIN=vladimir.sherbakov@gmail.com
      PASSWORD=asdaQwer1234!
-
-   Alternatively, you can export them manually before running the tests:
-
-     export LOGIN=vladimir.sherbakov@gmail.com
-     export PASSWORD=asdaQwer1234!
 ```
